@@ -15,7 +15,7 @@ python main.py
 - `analysis.py` – textual analysis and visualization  
 
 ### 3D fitness landscape over the search space
-![Fitness landscape](fitness_landscape.png)
+![Fitness landscape](fitness_landscape.jpg)
 
 ### Overall PSO convergence
 ![PSO result](pso_revised_fitness.png)
